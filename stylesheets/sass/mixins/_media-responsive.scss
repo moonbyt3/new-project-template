@@ -1,0 +1,17 @@
+@mixin screen-sm {
+	@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+		@content;
+	}
+}
+
+@mixin screen-md {
+	@media only screen and (min-width : 1224px) {
+		@content;
+	}
+}
+
+@mixin screen-lg {
+	@media only screen and (min-width : 1824px) {
+		@content;
+	}
+}
