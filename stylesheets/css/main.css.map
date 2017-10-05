@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AACC,IAAK;EACF,UAAU,EAAE,UAAU;;AAGxB,0BAAqB;EACnB,UAAU,EAAE,OAAO",
+"sources": ["../sass/mixins/_border-box-mixin.scss"],
 "names": [],
 "file": "main.css"
 }
